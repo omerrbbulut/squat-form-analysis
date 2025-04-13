@@ -25,6 +25,8 @@ It performs:
 - MediaPipe
 - NumPy
 
+This project uses the nightly build of MediaPipe due to compatibility with recent NumPy versions.
+
 ## Future Work
 - Back posture estimation
 - Real-time classification
