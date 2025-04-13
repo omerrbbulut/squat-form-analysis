@@ -8,6 +8,9 @@ It performs:
 - Basic squat depth estimation
 - Annotated output video generation
 
+## Demo
+![demo](demo.gif)
+
 ## Usage
 
 ### Run on Google Colab
