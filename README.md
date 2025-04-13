@@ -31,7 +31,7 @@ It performs:
 ### Version Compatibility
 This project was tested on Google Colab in April 2025 with the following versions:
 
-- mediapipe-nightly==0.10.7.dev20240402
+- mediapipe-nightly==0.10.21.post20250128
 - opencv-python-headless==4.9.0.80
 - numpy==1.26.4
 
