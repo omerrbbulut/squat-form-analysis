@@ -25,7 +25,15 @@ It performs:
 - MediaPipe
 - NumPy
 
-This project uses the nightly build of MediaPipe due to compatibility with recent NumPy versions.
+### Version Compatibility
+This project was tested on Google Colab in April 2025 with the following versions:
+
+- mediapipe-nightly==0.10.7.dev20240402
+- opencv-python-headless==4.9.0.80
+- numpy==1.26.4
+
+These versions ensure compatibility and stability in a notebook-based environment.
+
 
 ## Future Work
 - Back posture estimation
